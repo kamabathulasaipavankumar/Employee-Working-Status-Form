@@ -1,0 +1,40 @@
+.bg-container{
+    background-color:skyblue;
+    max-width:500px;
+    margin: auto;
+    padding: 20px;
+    border-radius:25px;
+    box-shadow: 0 2px 5px black;
+    color: white;
+    
+}
+
+
+.form-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align: center;
+}
+
+.Errormsg{
+    color: rgb(225, 35, 35);
+    font-size: 15px;
+    margin-bottom:10px;
+}
+
+ .gender label, input[type=radio]{
+    cursor: pointer;
+    
+}
+svg{
+    color: rgb(0, 0, 0);
+}
+.buttondiv{
+    display: flex;
+    justify-content:space-between;
+}
+.h2tables{
+    text-align: center;
+   
+}
